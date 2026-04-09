@@ -1,0 +1,5 @@
+{
+  "name": "Lumina: The Whiteboard Alchemist",
+  "description": "Transform whiteboard photos into interactive, localized study modules with AI-powered vision, translation, and industry mapping.",
+  "requestFramePermissions": ["camera"]
+}
